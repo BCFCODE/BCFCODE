@@ -10,7 +10,9 @@
 
 <!-- Add CodeWars badge -->
 <p align="center">
-  <img src="https://www.codewars.com/users/BCFCODE/badges/large" alt="CodeWars Badge" style="margin-top: 10px;">
+  <a href="https://www.codewars.com/users/BCFCODE" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.codewars.com/users/BCFCODE/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
+  </a>
 </p>
 
 ## Summary
