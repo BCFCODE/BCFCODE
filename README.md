@@ -1,6 +1,6 @@
 <!-- Add an eye-catching header -->
 <p align="center">
-  <img src="your-profile-image-url" alt="Morteza Bakhshandeh" width="200" height="200">
+  <img src="./assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="200" height="200">
 </p>
 
 # Morteza Bakhshandeh - Front End Web Developer
