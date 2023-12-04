@@ -5,8 +5,9 @@
 
 <!-- Display the profile picture in full size under the header -->
 <p align="center">
-    <img src="./assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="200" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+  <img src="./assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="300" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
 </p>
+
 
 <!-- Add CodeWars badge -->
 <p align="center">
