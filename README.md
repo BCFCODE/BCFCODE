@@ -33,7 +33,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 ## 📫 Contact Information
 - 📞 Phone: +98-936-362-7462
 - ✉️ Email: BCFCODE@Gmail.COM
-- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/mortezabakhshandeh/)
+- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
 
 ## 🛠️ Skills
 HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB | Premier | Material UI | Ubuntu | Design patterns
@@ -42,7 +42,7 @@ HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript |
 - Magic Team | Creativity | Graphic Designing
 
 ## 🌐 Technical Affiliations
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [Codewars](https://www.codewars.com/users/YourUsername)
-- [BCFCODEteam](https://www.bcfcodeteam.com/)
-- [LinkedIn](https://www.linkedin.com/in/mortezabakhshandeh/)
+- [freeCodeCamp](https://www.freecodecamp.org/bakhshandeh_morteza)
+- [Codewars](https://www.codewars.com/users/BCFCODE)
+- [BCFCODEteam](https://github.com/BCFCODEteam)
+- [LinkedIn](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
