@@ -48,7 +48,9 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 🛠️ Skills
 
-HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB | Premier | Material UI | Ubuntu | Design patterns
+HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB  | Material UI | Ubuntu | Design patterns
+
+Other skills: [Premier](https://www.instagram.com/p/CcYtXscIARz/)
 
 ## 🌐 Technical Affiliations
 
