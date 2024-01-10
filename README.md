@@ -26,7 +26,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 💼 Work Experience
 
-### Front-End Web Developer at Magic Team (Shiraz) 🌐
+### Front-End Web Developer at Magic Team 🌐
 
 *(April 2021 – 2023)*
 
@@ -38,6 +38,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 🎓 Certifications
 
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
 
 ## 📫 Contact Information
