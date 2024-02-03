@@ -38,7 +38,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 🎓 Certifications
 
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 202)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
 
 ## 📫 Contact Information
