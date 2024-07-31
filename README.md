@@ -1,7 +1,7 @@
 <!-- Add an eye-catching header -->
 
 <p align="center">
-  <h1>🚀 Morteza Bakhshandeh - Front End Web Developer</h1>
+  <h1>🚀 Morteza Bakhshandeh - Web Developer</h1>
 </p>
 
 <!-- Display the profile picture in full size under the header -->
