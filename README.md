@@ -1,18 +1,10 @@
-<!-- Add an eye-catching header -->
-
-<p align="center">
-  <h1>Morteza Bakhshandeh - Web Developer</h1>
-</p>
-
-<!-- Display the profile picture in full size under the header -->
+# Morteza Bakhshandeh - Web Developer
 
 <p align="center">
   <a href="./assets/CV@Bakhshandeh_Morteza.pdf" target="_blank" rel="noopener noreferrer">
     <img src="./assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="100%" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
-
-<!-- Add CodeWars badge -->
 
 <p align="center">
   <a href="https://www.codewars.com/users/BCFCODE" target="_blank" rel="noopener noreferrer">
@@ -22,36 +14,59 @@
 
 ## Summary
 
-Passionate Front-End Developer with 2 years of experience, dedicated to crafting responsive, accessible, and visually appealing web applications. Skilled in HTML, CSS, JavaScript, React, and more. Committed to delivering high-quality products and proficient in version control with Git.
+As a **Front-End Developer** with 3 years of experience, I specialize in crafting responsive, accessible, and user-centric web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **TailwindCSS**. My expertise in creating seamless user interfaces with **HTML**, **CSS**, and **JavaScript** is complemented by a strong foundation in **version control** and collaborative development with **Git**. With a passion for delivering **high-quality, customer-focused solutions**, I bring an added edge with my skills in **graphic design**, ensuring visually compelling and functional designs. Additionally, I've sharpened my problem-solving abilities by solving more than **1,100 katas** on **Codewars**, demonstrating my commitment to continuous learning and excellence.
 
 ## 💼 Work Experience
 
-### Front-End Web Developer at Magic Team 🌐
+### Front-End Web Developer Intern at Magic Team 🌐  
+**(April 2022 – May 2024)**  
+**Shiraz, Iran**
 
-*(April 2021 – 2023)*
-
-- Designed and developed user-friendly web pages using ReactJs.
-- Utilized Git for version control.
-- Implemented interfaces and middleware with HTML, CSS, and JavaScript.
-- Created unit tests for components.
-- Followed clean coding standards and best practices.
+- Transformed user experiences by designing and developing dynamic, responsive web pages.
+- **Technologies Used:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SASS.
+- **Styling:** Implemented modern and responsive UIs using **Styled-components**, **TailwindCSS**, **DaisyUI**, and **Material UI**.
+- **Data Visualization:** Integrated **D3** for interactive data visualizations.
+- **Version Control:** Managed the codebase using **Git** and **GitHub**, maintaining clean and consistent coding standards.
+- **Testing:** Developed unit tests using **Vitest** to ensure the reliability of React components.
+- **Optimization:** Enhanced performance with **Vite** for fast and efficient builds.
+- **Additional Skills:** Applied **FP** and **OOP** principles, utilized **jQuery** for legacy support.
+- **Cross-Platform Development:** Developed mobile applications using **React Native**.
+- **Database Management:** Integrated **MongoDB** for backend data handling.
 
 ## 🎓 Certifications
 
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
 
-## 📫 Contact Information
-
-- 📞 Phone: +98-936-362-7462
-- ✉️ Email: BCFCODE@gmail.com
-- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
-
 ## 🛠️ Skills
 
-HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB  | Material UI | Ubuntu | Design patterns
+### Front-End Development
+- **React** | **Next.js** | **HTML** | **CSS** | **JavaScript** | **TypeScript** | **Styled-components** | **TailwindCSS** | **DaisyUI** | **SASS** | **jQuery** | **Material UI**
 
-Other skills: [Premier](https://www.instagram.com/p/CcYtXscIARz/)
+### Testing & Optimization
+- **Vitest** | **Vite**
+
+### Data Visualization
+- **D3.js**
+
+### Cross-Platform Development
+- **React Native**
+
+### Database Management
+- **MongoDB**
+
+### Version Control & Collaboration
+- **Git** | **GitHub**
+
+### Programming Paradigms & Concepts
+- **FP** | **OOP** | **Data Structures**
+
+## 📫 Contact Information
+
+- 📞 Phone: +98-936-362-7469
+- ✉️ Email: BCFCODE@gmail.com
+- 🌐 Website: [BakhshandehMorteza.ir](http://BakhshandehMorteza.ir)
+- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
 
 ## 🌐 Technical Affiliations
 
