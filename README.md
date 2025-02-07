@@ -1,4 +1,4 @@
-# Morteza Bakhshandeh - Web Developer
+# Morteza Bakhshandeh – Web Developer
 
 <p align="center">
   <a href="./assets/CV@Bakhshandeh_Morteza.pdf" target="_blank" rel="noopener noreferrer">
@@ -12,9 +12,9 @@
   </a>
 </p>
 
-## Summary
+## Professional Summary
 
-As a **Front-End Developer** with 3 years of experience, I specialize in crafting responsive, accessible, and user-centric web applications using modern technologies like **React**, **Next.js**, **TypeScript**, and **TailwindCSS**. My expertise in creating seamless user interfaces with **HTML**, **CSS**, and **JavaScript** is complemented by a strong foundation in **version control** and collaborative development with **Git**. With a passion for delivering **high-quality, customer-focused solutions**, I bring an added edge with my skills in **graphic design**, ensuring visually compelling and functional designs. Additionally, I've sharpened my problem-solving abilities by solving more than **1,100 katas** on **Codewars**, demonstrating my commitment to continuous learning and excellence.
+I am a Front-End Developer with over three years of industry experience, specializing in designing and developing responsive, accessible, and user-centric web applications. I leverage modern technologies—such as **React**, **Next.js**, **TypeScript**, and **TailwindCSS**—to deliver high-quality solutions that prioritize both functionality and visual appeal. My expertise in building seamless user interfaces using **HTML**, **CSS**, and **JavaScript** is underpinned by rigorous version control practices with **Git**. Additionally, my background in graphic design enables me to craft aesthetically compelling and intuitive designs. My commitment to continuous improvement is demonstrated by solving over **1,100 katas** on **Codewars**.
 
 ## 💼 Work Experience
 
@@ -22,23 +22,24 @@ As a **Front-End Developer** with 3 years of experience, I specialize in craftin
 **(April 2022 – May 2024)**  
 **Shiraz, Iran**
 
-- Transformed user experiences by designing and developing dynamic, responsive web pages.
-- **Technologies Used:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SASS.
-- **Styling:** Implemented modern and responsive UIs using **Styled-components**, **TailwindCSS**, **DaisyUI**, and **Material UI**.
-- **Data Visualization:** Integrated **D3** for interactive data visualizations.
-- **Version Control:** Managed the codebase using **Git** and **GitHub**, maintaining clean and consistent coding standards.
-- **Testing:** Developed unit tests using **Vitest** to ensure the reliability of React components.
-- **Optimization:** Enhanced performance with **Vite** for fast and efficient builds.
-- **Additional Skills:** Applied **FP** and **OOP** principles, utilized **jQuery** for legacy support.
+- **Web Development:** Designed and developed dynamic, responsive web pages to enhance user engagement.
+- **Technologies Utilized:** React, Next.js, TypeScript, JavaScript, HTML, CSS, SASS.
+- **UI/UX Implementation:** Engineered modern, responsive interfaces using **Styled-components**, **TailwindCSS**, **DaisyUI**, and **Material UI**.
+- **Data Visualization:** Integrated **D3.js** to create interactive, data-driven visualizations.
+- **Version Control:** Maintained code integrity using **Git** and **GitHub**, ensuring adherence to best practices.
+- **Quality Assurance:** Developed unit tests with **Vitest** to validate component functionality.
+- **Performance Optimization:** Accelerated build processes and enhanced application performance with **Vite**.
+- **Development Methodologies:** Employed both functional programming (FP) and object-oriented programming (OOP) paradigms.
+- **Legacy Integration:** Utilized **jQuery** to support legacy system features.
 - **Cross-Platform Development:** Developed mobile applications using **React Native**.
-- **Database Management:** Integrated **MongoDB** for backend data handling.
+- **Database Management:** Integrated **MongoDB** for efficient backend data handling.
 
 ## 🎓 Certifications
 
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
 
-## 🛠️ Skills
+## 🛠️ Core Skills
 
 ### Front-End Development
 - **React** | **Next.js** | **HTML** | **CSS** | **JavaScript** | **TypeScript** | **Styled-components** | **TailwindCSS** | **DaisyUI** | **SASS** | **jQuery** | **Material UI**
@@ -58,15 +59,15 @@ As a **Front-End Developer** with 3 years of experience, I specialize in craftin
 ### Version Control & Collaboration
 - **Git** | **GitHub**
 
-### Programming Paradigms & Concepts
-- **FP** | **OOP** | **Data Structures**
+### Programming Methodologies
+- **Functional Programming (FP)** | **Object-Oriented Programming (OOP)** | **Data Structures**
 
 ## 📫 Contact Information
 
-- 📞 Phone: +98-936-362-7469
-- ✉️ Email: BCFCODE@gmail.com
-- 🌐 Website: [BakhshandehMorteza.ir](http://BakhshandehMorteza.ir)
-- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
+- **Phone:** +98-936-362-7469
+- **Email:** [BCFCODE@gmail.com](mailto:BCFCODE@gmail.com)
+- **Website:** [BakhshandehMorteza.ir](http://BakhshandehMorteza.ir)
+- **LinkedIn:** [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
 
 ## 🌐 Technical Affiliations
 
