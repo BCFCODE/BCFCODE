@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/BCFCODE" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.codewars.com/users/BCFCODE/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
+  <a href="https://www.codewars.com/users/www.BCFCODE.ir" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.codewars.com/users/www.BCFCODE.ir/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
   </a>
 </p>
 
