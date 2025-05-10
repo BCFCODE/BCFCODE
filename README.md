@@ -10,21 +10,21 @@
   </a>
 </p>
 
-<!-- Add CodeWars badge -->
-
 <p align="center">
   <a href="https://www.codewars.com/users/www.BCFCODE.ir" target="_blank" rel="noopener noreferrer">
     <img src="https://www.codewars.com/users/www.BCFCODE.ir/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
   </a>
 </p>
 
-## Summary
+## Professional Summary
 
-Passionate Front-End Developer with 2 years of experience, dedicated to crafting responsive, accessible, and visually appealing web applications. Skilled in HTML, CSS, JavaScript, React, and more. Committed to delivering high-quality products and proficient in version control with Git.
+I am a Front-End Developer with over three years of industry experience, specializing in designing and developing responsive, accessible, and user-centric web applications. I leverage modern technologies—such as **React**, **Next.js**, **TypeScript**, and **TailwindCSS**—to deliver high-quality solutions that prioritize both functionality and visual appeal. My expertise in building seamless user interfaces using **HTML**, **CSS**, and **JavaScript** is underpinned by rigorous version control practices with **Git**. Additionally, my background in graphic design enables me to craft aesthetically compelling and intuitive designs. My commitment to continuous improvement is demonstrated by solving over **1,100 katas** on **Codewars**.
 
 ## 💼 Work Experience
 
-### Front-End Web Developer at Magic Team 🌐
+### Front-End Web Developer Intern at Magic Team 🌐  
+**(April 2022 – May 2024)**  
+**Shiraz, Iran**
 
 *(April 2021 – 2025)*
 
@@ -38,6 +38,29 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
+
+## 🛠️ Core Skills
+
+### Front-End Development
+- **React** | **Next.js** | **HTML** | **CSS** | **JavaScript** | **TypeScript** | **Styled-components** | **TailwindCSS** | **DaisyUI** | **SASS** | **jQuery** | **Material UI**
+
+### Testing & Optimization
+- **Vitest** | **Vite**
+
+### Data Visualization
+- **D3.js**
+
+### Cross-Platform Development
+- **React Native**
+
+### Database Management
+- **MongoDB**
+
+### Version Control & Collaboration
+- **Git** | **GitHub**
+
+### Programming Methodologies
+- **Functional Programming (FP)** | **Object-Oriented Programming (OOP)** | **Data Structures**
 
 ## 📫 Contact Information
 
