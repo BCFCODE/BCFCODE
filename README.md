@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="./assets/CV@Bakhshandeh_Morteza.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="100%" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+    <img src="assets/profile-picture.jpg" alt="Morteza Bakhshandeh" width="100%" style="border-radius: 50%; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
 
