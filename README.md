@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-I am a Front-End Developer with over three years of industry experience, specializing in designing and developing responsive, accessible, and user-centric web applications. I leverage modern technologies—such as **React**, **Next.js**, **TypeScript**, and **TailwindCSS**—to deliver high-quality solutions that prioritize both functionality and visual appeal. My expertise in building seamless user interfaces using **HTML**, **CSS**, and **JavaScript** is underpinned by rigorous version control practices with **Git**. Additionally, my background in graphic design enables me to craft aesthetically compelling and intuitive designs. My commitment to continuous improvement is demonstrated by solving over **1,100 katas** on **Codewars**.
+I am a Front-End Developer with over three years of industry experience, specializing in designing and developing responsive, accessible, and user-centric web applications. I leverage modern technologies—such as **React**, **Next.js**, **TypeScript**, and **TailwindCSS**—to deliver high-quality solutions that prioritize both functionality and visual appeal. My expertise in building seamless user interfaces using **HTML**, **CSS**, and **JavaScript** is underpinned by rigorous version control practices with **Git**. Additionally, my background in graphic design enables me to craft aesthetically compelling and intuitive designs. My commitment to continuous improvement is demonstrated by solving over **1,300 katas** on **Codewars**.
 
 ## 💼 Work Experience
 
@@ -66,7 +66,6 @@ I am a Front-End Developer with over three years of industry experience, special
 
 - 📞 Phone: +98-936-362-7462
 - ✉️ Email: BCFCODE@gmail.com
-- 💼 LinkedIn: [Morteza Bakhshandeh](https://www.linkedin.com/in/morteza-bakhshandeh-813598260/)
 
 ## 🛠️ Skills
 
