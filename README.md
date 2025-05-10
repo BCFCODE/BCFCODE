@@ -1,8 +1,6 @@
 <!-- Add an eye-catching header -->
 
-<p align="center">
-  <h1>🚀 Morteza Bakhshandeh - Front End Web Developer</h1>
-</p>
+<h1 align="center">Morteza Bakhshandeh - Web Developer</h1>
 
 <!-- Display the profile picture in full size under the header -->
 
@@ -15,8 +13,8 @@
 <!-- Add CodeWars badge -->
 
 <p align="center">
-  <a href="https://www.codewars.com/users/BCFCODE" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.codewars.com/users/BCFCODE/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
+  <a href="https://www.codewars.com/users/www.BCFCODE.ir" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.codewars.com/users/www.BCFCODE.ir/badges/large" alt="Codewars Badge" style="margin-top: 10px;">
   </a>
 </p>
 
@@ -28,7 +26,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ### Front-End Web Developer at Magic Team 🌐
 
-*(April 2021 – 2023)*
+*(April 2021 – 2025)*
 
 - Designed and developed user-friendly web pages using ReactJs.
 - Utilized Git for version control.
@@ -38,7 +36,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 🎓 Certifications
 
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 202)
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/responsive-web-design) (January 7, 2024)
 - [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/bakhshandeh_morteza/javascript-algorithms-and-data-structures) (November 24, 2023)
 
 ## 📫 Contact Information
@@ -49,7 +47,7 @@ Passionate Front-End Developer with 2 years of experience, dedicated to crafting
 
 ## 🛠️ Skills
 
-HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB  | Material UI | Ubuntu | Design patterns
+HTML | CSS | JavaScript | React | Bootstrap | SASS | jQuery | Git | TypeScript | FP, OOP | Data Structure | React Native | Angular | MongoDB | Material UI | Ubuntu | Design patterns
 
 Other skills: [Premier](https://www.instagram.com/p/CcYtXscIARz/)
 
